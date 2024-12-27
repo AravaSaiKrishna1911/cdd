@@ -8,5 +8,7 @@ public class loop {
 
     System.out.println("the loop has ended");
     System.out.println("pravi");
+    System.out.println("sonu");
+
 }
 }
