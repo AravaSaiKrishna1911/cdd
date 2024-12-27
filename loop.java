@@ -5,5 +5,8 @@ public class loop {
             System.out.println(i);
             i++;
     }
+
+    System.out.println("the loop has ended");
+    System.out.println("pravi");
 }
 }
